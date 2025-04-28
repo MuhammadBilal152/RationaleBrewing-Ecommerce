@@ -8,10 +8,10 @@ This is a Shopify-based e-commerce website for **Rationale Brewing**, a brewing 
 
 ## Screenshots:
 ### Homepage Screenshot:
-![Homepage](images/rational%20brewing%20homepage.png)
+![Homepage](rational%20brewing%20homepage.png)
 
 ### Product Page Screenshot:
-![Product Page](images/rational%20brewing%20products%20page.png)
+![Product Page](rational%20brewing%20products%20page.png)
 
 ## Technologies Used:
 - **Shopify** for store setup and management
